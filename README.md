@@ -1,0 +1,2 @@
+# Amazatic
+Amazatic project details 
